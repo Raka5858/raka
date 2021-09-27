@@ -1,2 +1,3 @@
 # raka
-raka repo
+raka repo update
+
